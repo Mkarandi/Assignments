@@ -6,7 +6,7 @@
 Open Banking is the use of Application Programming Interfaces (APIs) to share consumer's financial data to trusted third parties who will then use this data to provide financial products and services. For this case study, we will focus on Cash App.
 
 ### **History**
-Cash App is a mobile payment service developed by Block, Inc. (formely Square Inc.) in October 2013 and named 'Square Cash' as a P2P (peer-to-peer) payment service similar to close comeptitors such as Venmo, Google Pay, Apple Pay and Paypal amongst others.<br>At it's inception, the application afforded users the ability to transfer money to other individuals, pay for goods and services and bill payments. In later years, services within the application have expanded to include receipt of direct deposit payments and ACH payments. <br>In recent years, users can now buy and sell  cryptocurrency through the platform and also invest in stocks and ETFs within the application commission free. The platform also allows it's users to file taxes through it's acquisition on Credit Karma Tax in November 2020.
+Cash App is a mobile payment service developed by Block, Inc. (formerly Square Inc.) in October 2013 and named 'Square Cash' as a P2P (peer-to-peer) payment service similar to close competitors such as Venmo, Google Pay, Apple Pay and Paypal amongst others.<br>At it's inception, the application afforded users the ability to transfer money to other individuals, pay for goods and services and bill payments. In later years, services within the application have expanded to include receipt of direct deposit payments and ACH payments. <br>In recent years, users can now buy and sell  cryptocurrency through the platform and also invest in stocks and ETFs within the application commission free. The platform also allows it's users to file taxes through it's acquisition on Credit Karma Tax in November 2020.
 
 ### **Services**
 
@@ -18,11 +18,11 @@ Using either a unique username called $cashtag, email address or phone number, u
 ### Banking
  Users can receive, send and store money within the service. Users can also transfer funds to their local banks.  Upon signing up, users will link at least one checking account to the service to allow this. Cash App does have a debit card.
 
-### Cryptocurreny
-As of January 2018, users can buy and sell crytpocurrency through the API. This is still limited to Bitcoin.
+### Cryptocurrency
+As of January 2018, users can buy and sell cryptocurrency through the API. This is still limited to Bitcoin.
 
 ### Investing
-In Novemebr 2020, Bloc Inc. added an investment service i nthe platfomr that allows users to trade in stocks and EFTs without a commission charge.
+In November 2020, Bloc Inc. added an investment service onthe platform that allows users to trade in stocks and EFTs without a commission charge.
 
 
 ### **Business Model**
@@ -40,14 +40,14 @@ There is a charge to buy or sell Bitcoin in the platform.
 ### Charging Businesses
 Businesses that accept Cash App payments are charged a fee of 2.75% of the value of the transaction
 ### Money Creation
-Block Inc. also lends out money in their reserves to various insititions. To maintain liquidity, the company is expected to hold at least 10% of total user deposits and can lend out the rest.<p>
+Block Inc. also lends out money in their reserves to various insititutions. To maintain liquidity, the company is expected to hold at least 10% of total user deposits and can lend out the rest.<p>
 
 ### **Business Impact and Potential for The Future**
 ### Impact
 Despite intense competition in the P2P  payment industry, Cash App has continued to grow and even surpass some of its biggest competitors in the market. In 2018, Cash App surpassed Venmo in total downloads at 33.5 million. By 2021, this number had more than doubled to 70 million users.
 
 ### Potential
-The platform only works locally. This is a disadvantage as users potentially travel globaly and lose access to their funds and ability to transact. This coul be an area of potential growth for the company.
+The platform only works locally. This is a disadvantage as users potentially travel globally and lose access to their funds and ability to transact. This could be an area of potential growth for the company.
 
 At the moment, Cash App only allows trading of Bitcoin, there is potential for growth by including more popular cryptocurrencies.
 
